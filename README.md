@@ -21,3 +21,7 @@ Optimize your libraries with webpack [https://github.com/GoogleChromeLabs/webpac
 Comlink [https://github.com/GoogleChromeLabs/comlink]
 
 AssemblyScript [https://docs.assemblyscript.org/]
+
+Build A React Drag & Drop Progress File Uploader [https://medium.com/@mannycodes/build-a-react-drag-drop-progress-file-uploader-fb874c515a7]
+
+How to Use Redux with React Hooks [https://blog.bitsrc.io/using-react-redux-hooks-97654aff01e4]
