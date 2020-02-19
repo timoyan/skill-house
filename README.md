@@ -17,3 +17,5 @@ CSS Paint API [https://developers.google.com/web/updates/2018/01/paintapi] @Chro
 ------
 # Unread
 Optimize your libraries with webpack [https://github.com/GoogleChromeLabs/webpack-libs-optimizations?fbclid=IwAR3JmInRT76gk8rBA4BwA-TT-a0Tsj5yhXQff6qqBlBpK6J_qLqrOtwYiFc]
+
+Comlink [https://github.com/GoogleChromeLabs/comlink]
