@@ -25,3 +25,13 @@ AssemblyScript [https://docs.assemblyscript.org/]
 Build A React Drag & Drop Progress File Uploader [https://medium.com/@mannycodes/build-a-react-drag-drop-progress-file-uploader-fb874c515a7]
 
 How to Use Redux with React Hooks [https://blog.bitsrc.io/using-react-redux-hooks-97654aff01e4]
+
+职场心理安全很重要 [https://zhuanlan.zhihu.com/p/58043602]
+
+OAuth and OpenID Connect in plain English [https://speakerdeck.com/nbarbettini/oauth-and-openid-connect-in-plain-english]
+
+OAuth 2.0 and OpenID Connect (in plain English) [https://www.youtube.com/watch?v=996OiexHze0&t=2s]
+
+RxJS Quick Start with Practical Examples [https://www.youtube.com/watch?v=2LCo926NFLI]
+
+Parallel computing in ReactJS || Majid Hajian [https://www.youtube.com/watch?v=aPOMcRp7uVU]
