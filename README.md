@@ -35,3 +35,5 @@ OAuth 2.0 and OpenID Connect (in plain English) [https://www.youtube.com/watch?v
 RxJS Quick Start with Practical Examples [https://www.youtube.com/watch?v=2LCo926NFLI]
 
 Parallel computing in ReactJS || Majid Hajian [https://www.youtube.com/watch?v=aPOMcRp7uVU]
+
+Git 平台正確一致化 [https://blog.alantsai.net/posts/2017/07/git-normalize-line-ending]
