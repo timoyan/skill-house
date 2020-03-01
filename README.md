@@ -19,6 +19,8 @@ CSS Paint API [https://developers.google.com/web/updates/2018/01/paintapi] @Chro
 # React
 React Hooks [https://segmentfault.com/a/1190000018928587]
 
+useEffect vs useLayoutEffect [https://kentcdodds.com/blog/useeffect-vs-uselayouteffect]
+
 ------
 # Unread
 Optimize your libraries with webpack [https://github.com/GoogleChromeLabs/webpack-libs-optimizations?fbclid=IwAR3JmInRT76gk8rBA4BwA-TT-a0Tsj5yhXQff6qqBlBpK6J_qLqrOtwYiFc]
