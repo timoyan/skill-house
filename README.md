@@ -16,6 +16,9 @@ CSS Paint API [https://developers.google.com/web/updates/2018/01/paintapi] @Chro
 # Psychology
 职场心理安全很重要 [https://zhuanlan.zhihu.com/p/58043602]
 
+# React
+React Hooks [https://segmentfault.com/a/1190000018928587]
+
 ------
 # Unread
 Optimize your libraries with webpack [https://github.com/GoogleChromeLabs/webpack-libs-optimizations?fbclid=IwAR3JmInRT76gk8rBA4BwA-TT-a0Tsj5yhXQff6qqBlBpK6J_qLqrOtwYiFc]
@@ -40,4 +43,4 @@ Git 平台正確一致化 [https://blog.alantsai.net/posts/2017/07/git-normalize
 
 攻击GraphQL [https://xzfile.aliyuncs.com/upload/zcon/2018/7_%E6%94%BB%E5%87%BBGraphQL_phithon.pdf?fbclid=IwAR0gadNCrDn7R_5LklZSsEunIQCtDQ1hAZ9hFBnWXbRtgyAe23RGnIrny8c]
 
-React Hooks [https://segmentfault.com/a/1190000018928587]
+
