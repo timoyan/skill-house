@@ -13,6 +13,8 @@ Configuring Git to handle line endings [https://help.github.com/en/github/using-
 # Browser
 CSS Paint API [https://developers.google.com/web/updates/2018/01/paintapi] @Chrome
 
+# Psychology
+职场心理安全很重要 [https://zhuanlan.zhihu.com/p/58043602]
 
 ------
 # Unread
@@ -25,8 +27,6 @@ AssemblyScript [https://docs.assemblyscript.org/]
 Build A React Drag & Drop Progress File Uploader [https://medium.com/@mannycodes/build-a-react-drag-drop-progress-file-uploader-fb874c515a7]
 
 How to Use Redux with React Hooks [https://blog.bitsrc.io/using-react-redux-hooks-97654aff01e4]
-
-职场心理安全很重要 [https://zhuanlan.zhihu.com/p/58043602]
 
 OAuth and OpenID Connect in plain English [https://speakerdeck.com/nbarbettini/oauth-and-openid-connect-in-plain-english]
 
