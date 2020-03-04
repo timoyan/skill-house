@@ -21,6 +21,9 @@ React Hooks [https://segmentfault.com/a/1190000018928587]
 
 useEffect vs useLayoutEffect [https://kentcdodds.com/blog/useeffect-vs-uselayouteffect]
 
+# API
+GraphQL, gRPC or REST? Resolving the API Developer's Dilemma - Rob Crowley [https://www.youtube.com/watch?v=l_P6m3JTyp0]
+
 ------
 # Unread
 Optimize your libraries with webpack [https://github.com/GoogleChromeLabs/webpack-libs-optimizations?fbclid=IwAR3JmInRT76gk8rBA4BwA-TT-a0Tsj5yhXQff6qqBlBpK6J_qLqrOtwYiFc]
