@@ -1,6 +1,9 @@
 # Skill house
 Collect videos, samples, articles whatever is good for dev skills.
 
+# HTML
+Attributes and properties [https://javascript.info/dom-attributes-and-properties]
+
 # CSS
 Flexbox tutorial [http://flexboxfroggy.com/]
 
