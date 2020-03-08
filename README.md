@@ -24,6 +24,10 @@ React Hooks [https://segmentfault.com/a/1190000018928587]
 
 useEffect vs useLayoutEffect [https://kentcdodds.com/blog/useeffect-vs-uselayouteffect]
 
+# Security
+What is JWT authorization really about - Java Brains [https://www.youtube.com/watch?v=soGRyl9ztjI]
+
+
 # API
 GraphQL, gRPC or REST? Resolving the API Developer's Dilemma - Rob Crowley [https://www.youtube.com/watch?v=l_P6m3JTyp0]
 
@@ -51,4 +55,4 @@ Git 平台正確一致化 [https://blog.alantsai.net/posts/2017/07/git-normalize
 
 攻击GraphQL [https://xzfile.aliyuncs.com/upload/zcon/2018/7_%E6%94%BB%E5%87%BBGraphQL_phithon.pdf?fbclid=IwAR0gadNCrDn7R_5LklZSsEunIQCtDQ1hAZ9hFBnWXbRtgyAe23RGnIrny8c]
 
-
+What is the structure of a JWT - Java Brains [https://www.youtube.com/watch?v=_XbXkVdoG_0]
