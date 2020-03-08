@@ -27,6 +27,7 @@ useEffect vs useLayoutEffect [https://kentcdodds.com/blog/useeffect-vs-uselayout
 # Security
 What is JWT authorization really about - Java Brains [https://www.youtube.com/watch?v=soGRyl9ztjI]
 
+What is OAuth really all about - OAuth tutorial - Java Brains [https://www.youtube.com/watch?v=t4-416mg6iU]
 
 # API
 GraphQL, gRPC or REST? Resolving the API Developer's Dilemma - Rob Crowley [https://www.youtube.com/watch?v=l_P6m3JTyp0]
@@ -57,6 +58,6 @@ Git 平台正確一致化 [https://blog.alantsai.net/posts/2017/07/git-normalize
 
 What is the structure of a JWT - Java Brains [https://www.youtube.com/watch?v=_XbXkVdoG_0]
 
-What is OAuth really all about - OAuth tutorial - Java Brains [https://www.youtube.com/watch?v=t4-416mg6iU]
+
 
 OAuth terminologies and flows explained - OAuth tutorial - Java Brains [https://www.youtube.com/watch?v=3pZ3Nh8tgTE]
