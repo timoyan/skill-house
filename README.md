@@ -32,6 +32,11 @@ What is OAuth really all about - OAuth tutorial - Java Brains [https://www.youtu
 # API
 GraphQL, gRPC or REST? Resolving the API Developer's Dilemma - Rob Crowley [https://www.youtube.com/watch?v=l_P6m3JTyp0]
 
+# Microservice
+What are microservices really all about? - Microservices Basics Tutorial [https://www.youtube.com/watch?v=j1gU2oGFayY]
+
+Introduction to Microservices, Docker, and Kubernetes [https://www.youtube.com/watch?v=1xo-0gCVhTU]
+
 ------
 # Unread
 Optimize your libraries with webpack [https://github.com/GoogleChromeLabs/webpack-libs-optimizations?fbclid=IwAR3JmInRT76gk8rBA4BwA-TT-a0Tsj5yhXQff6qqBlBpK6J_qLqrOtwYiFc]
@@ -58,6 +63,6 @@ Git 平台正確一致化 [https://blog.alantsai.net/posts/2017/07/git-normalize
 
 What is the structure of a JWT - Java Brains [https://www.youtube.com/watch?v=_XbXkVdoG_0]
 
-
-
 OAuth terminologies and flows explained - OAuth tutorial - Java Brains [https://www.youtube.com/watch?v=3pZ3Nh8tgTE]
+
+Mastering Chaos - A Netflix Guide to Microservices [https://www.youtube.com/watch?v=CZ3wIuvmHeM&t=22s]
