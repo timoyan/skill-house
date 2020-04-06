@@ -66,3 +66,5 @@ What is the structure of a JWT - Java Brains [https://www.youtube.com/watch?v=_X
 OAuth terminologies and flows explained - OAuth tutorial - Java Brains [https://www.youtube.com/watch?v=3pZ3Nh8tgTE]
 
 Mastering Chaos - A Netflix Guide to Microservices [https://www.youtube.com/watch?v=CZ3wIuvmHeM&t=22s]
+
+Manage vs Lead [https://stevekeating.me/tag/manage-vs-lead/]
