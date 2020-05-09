@@ -68,3 +68,5 @@ OAuth terminologies and flows explained - OAuth tutorial - Java Brains [https://
 Mastering Chaos - A Netflix Guide to Microservices [https://www.youtube.com/watch?v=CZ3wIuvmHeM&t=22s]
 
 Manage vs Lead [https://stevekeating.me/tag/manage-vs-lead/]
+
+GOTO 2019 • Clean Architecture with ASP.NET Core 3.0 • Jason Taylor [https://www.youtube.com/watch?v=dK4Yb6-LxAk]
