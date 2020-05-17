@@ -24,6 +24,9 @@ React Hooks [https://segmentfault.com/a/1190000018928587]
 
 useEffect vs useLayoutEffect [https://kentcdodds.com/blog/useeffect-vs-uselayouteffect]
 
+# RxJS
+RxJS Fruits [https://www.rxjs-fruits.com/subscribe]
+
 # Security
 What is JWT authorization really about - Java Brains [https://www.youtube.com/watch?v=soGRyl9ztjI]
 
