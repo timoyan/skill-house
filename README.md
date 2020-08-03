@@ -40,6 +40,10 @@ What are microservices really all about? - Microservices Basics Tutorial [https:
 
 Introduction to Microservices, Docker, and Kubernetes [https://www.youtube.com/watch?v=1xo-0gCVhTU]
 
+# Nginx 
+
+Tuning NGINX behind Google Cloud Platform HTTP(S) Load Balancer [https://blog.percy.io/tuning-nginx-behind-google-cloud-platform-http-s-load-balancer-305982ddb340]
+
 ------
 # Unread
 Optimize your libraries with webpack [https://github.com/GoogleChromeLabs/webpack-libs-optimizations?fbclid=IwAR3JmInRT76gk8rBA4BwA-TT-a0Tsj5yhXQff6qqBlBpK6J_qLqrOtwYiFc]
