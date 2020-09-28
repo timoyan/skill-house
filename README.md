@@ -49,6 +49,12 @@ Collect videos, samples, articles whatever is good for dev skills.
 
 [Tuning NGINX behind Google Cloud Platform HTTP(S) Load Balancer](https://blog.percy.io/tuning-nginx-behind-google-cloud-platform-http-s-load-balancer-305982ddb340)
 
+## Agile
+[Scrum Product Backlog](https://www.mountaingoatsoftware.com/agile/scrum/scrum-tools/product-backlog)
+
+[Sprint Backlog](https://www.mountaingoatsoftware.com/agile/scrum/scrum-tools/sprint-backlog)
+
+
 ------
 ## Unread
 [Optimize your libraries with webpack](https://github.com/GoogleChromeLabs/webpack-libs-optimizations?fbclid=IwAR3JmInRT76gk8rBA4BwA-TT-a0Tsj5yhXQff6qqBlBpK6J_qLqrOtwYiFc)
